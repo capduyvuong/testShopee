@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/cobertura-1.9.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/cucumber-picocontainer-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/ee.minimum-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/java-json.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/selenium-java-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/JOB_LEARN/Testing/Automation/Selenium with Java/Library/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
